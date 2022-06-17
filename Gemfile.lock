@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/ericam/compass-animation.git
-  revision: 314d7bfb732eb42cb759942d96431f386f3c40a5
+  remote: https://github.com/ericam/compass-animation.git
+  revision: 3791e3b2e432b5c63c76efbd15e160d88fa05c17
   specs:
     animation (0.1.alpha.3)
       compass (>= 0.12.0)
@@ -31,7 +31,7 @@ GEM
     http_router (0.10.2)
       rack (>= 1.0.0)
       url_mount (~> 0.2.1)
-    i18n (0.6.1)
+    i18n (0.6.11)
     listen (0.5.3)
     maruku (0.6.1)
       syntax (>= 1.0.0)
